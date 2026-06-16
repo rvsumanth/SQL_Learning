@@ -14,7 +14,7 @@ SELECT * FROM vstech;
 
 INSERT INTO vstech (id, name, salary)
 VALUES
-(101, 'Nirmal', 50000),
-(102, 'Priyanka', 50500),
-(103, 'Mukesh', 35000),
-(104, 'Mahesh', 35000);
+(101, 'Satya', 50000),
+(102, 'Sundhar', 50500),
+(103, 'Sumanth', 35000),
+(104, 'Sathwik', 35000);
