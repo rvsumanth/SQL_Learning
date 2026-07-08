@@ -38,3 +38,16 @@ SQL Commands are used to perform various operations on database such as Accessin
   - it allows non unique values and null values.
   - we can have multiple foregin keys in a table.
   - for example city table contains city id as primary key and student table contains city id
+
+## Constraits
+Contraints are the specific rules that can be applied to the attributes of a table to ensure Data Intigrity.
+- **Not Null**: Doesnot allows empty values in delcared attribute.
+  - Syntax:<br> `CREATE TABLE <table_name> (column_1 datatype NOT NULL,.....);`
+- **Primary key**: Doestnot allows empty values and duplicate values in specified attribute. should be only one in a table
+  - Syntax:<br> 
+`CREATE TABLE <table_name> (column_1 datatype, Column_2 datatype, PRIMARY KEY(column_1) );` <br> or<br>
+`CREATE TABLE table_name( column_name_1 datatype PRIMARY KEY);`
+- **Unique**
+- Foriegn Key
+- Default
+- Check
