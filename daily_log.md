@@ -9,3 +9,7 @@
   
 ### 02-07-2026
 - Revised DDL commands and updated Notes.
+
+### 10-08-2026
+- Revised basic select, where clause and operators 
+- Solved block 1 and block 2 Problems for SQL Master Question bank. 
