@@ -17,3 +17,7 @@
 ### 11-08-2026
 - Revised ORDER BY, LIMIT Clauses and Aggregate functions
 - Solved block 3, 4 problems from SQL Master Question bank
+
+### 12-08-2026
+- Revised GROUP BY, HAVING Clauses 
+- Solved black 5 problems from SQL Master Question bank;
