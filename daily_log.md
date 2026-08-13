@@ -21,3 +21,6 @@
 ### 12-08-2026
 - Revised GROUP BY, HAVING Clauses 
 - Solved black 5 problems from SQL Master Question bank;
+
+### 13-08-2026
+- Rest day
