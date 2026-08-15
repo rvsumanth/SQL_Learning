@@ -20,10 +20,14 @@
 
 ### 12-08-2026
 - Revised GROUP BY, HAVING Clauses 
-- Solved black 5 problems from SQL Master Question bank;
+- Solved black 5 problems from SQL Master Question bank
 
 ### 13-08-2026
 - Rest day
 
 ### 14-08-2026
 - Rest day
+  
+### 15-08-2026
+- Learned & Revised JOINS in SQL
+- Solved Block 6 problems from SQL Master Question bank
