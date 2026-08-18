@@ -31,3 +31,6 @@
 ### 15-08-2026
 - Learned & Revised JOINS in SQL
 - Solved Block 6 problems from SQL Master Question bank
+
+### 18-08-2026
+- Solved Two leet code problems 
